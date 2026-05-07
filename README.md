@@ -51,9 +51,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BlingLab&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlingLab&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BlingLab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlingLab&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 <br />
 <br />
 
@@ -78,7 +77,7 @@
 <div align="center">
 
 <a href="https://github.com/BlingLab/frontend-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlingLab&repo=frontend-lab&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlingLab&repo=frontend-lab&theme=tokyonight&hide_border=true&v=1" />
 </a>
 
 </div>
