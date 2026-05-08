@@ -49,6 +49,8 @@
 
 ## 📊 GitHub Stats
 
+<br />
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlingLab&theme=tokyonight&hide_border=true" />
@@ -65,18 +67,6 @@
 
 </div>
 
-<br />
-## 📂 Repository
-
-<div align="center">
-
-<a href="https://github.com/BlingLab/frontend-lab">
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlingLab&repo=frontend-lab&theme=tokyonight&hide_border=true&v=1" />
-
-</a>
-
-</div>
 <br />
 
 <div align="center">
