@@ -51,14 +51,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BlingLab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&v=1" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlingLab&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-
-<br />
-
-<br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlingLab&theme=tokyonight&hide_border=true" />
 
 </div>
